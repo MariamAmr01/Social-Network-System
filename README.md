@@ -4,7 +4,7 @@ Program for connecting users by simulating adding friends, recommending new frie
 - Read users from file.
 - Read users' relations from file.
 - Login
-- Search for use by user name.
+- Search for user by username.
 - Show friend list.
 - Add friends
 - Delete Friends 
